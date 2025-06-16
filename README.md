@@ -277,7 +277,8 @@ copies or substantial portions of the Software.
 ### 📞 Contacto
 
 - **Adolfo Campos** - [@cgomezadolfo](https://github.com/cgomezadolfo)
-- **Yerko Guerra** - Colaborador del proyecto
+- **Yerko Guerra** - [@yerkoguerrac](https://github.com/yguerrac)
+- 
 
 ---
 
